@@ -1,0 +1,6 @@
+D:/Repos/Building and connecting libraries 1/build/CMakeFiles/ALL_BUILD.dir
+D:/Repos/Building and connecting libraries 1/build/CMakeFiles/ZERO_CHECK.dir
+D:/Repos/Building and connecting libraries 1/build/greeter_lib/CMakeFiles/greeter.dir
+D:/Repos/Building and connecting libraries 1/build/greeter_lib/CMakeFiles/ALL_BUILD.dir
+D:/Repos/Building and connecting libraries 1/build/main_app/CMakeFiles/main_app.dir
+D:/Repos/Building and connecting libraries 1/build/main_app/CMakeFiles/ALL_BUILD.dir

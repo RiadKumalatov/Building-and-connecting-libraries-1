@@ -1,0 +1,10 @@
+^D:\REPOS\BUILDING AND CONNECTING LIBRARIES 1\BUILD\CMAKEFILES\132FA5F029313C7A68A31467C64E0E2F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Repos/Building and connecting libraries 1" "-BD:/Repos/Building and connecting libraries 1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Repos/Building and connecting libraries 1/build/my_project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
